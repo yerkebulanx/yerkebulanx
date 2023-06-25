@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yerkebulan Kenzhebek, frontend developer
+I am Yerkebulan Kenzhebek
 
 - 🌱 I’m highly interested in frontend development
 - 📫 How to reach me: yerkebulan.kenzhebek@nu.edu.kz

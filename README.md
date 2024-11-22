@@ -3,7 +3,7 @@
 I am Yerkebulan Kenzhebek
 
 - 🌱 I’m highly interested in frontend development
-- 📫 How to reach me: yerkebulan.kenzhebek@nu.edu.kz
+- 📫 How to reach me: yerkebulanx@gmail.com
 
 <!--
 **yerkebulanx/yerkebulanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
